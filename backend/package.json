@@ -1,5 +1,5 @@
 {
-  "name": "hospital-login-api",
+  "name": "mern-analytics",
   "version": "1.0.0",
   "type": "module",
   "main": "server.js",
